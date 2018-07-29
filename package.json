@@ -1,0 +1,21 @@
+{
+  "name": "andronow-style",
+  "version": "0.0.0",
+  "main": "build/index.js",
+  "description": "andronow style",
+  "license": "Apache-2.0",
+  "keywords": [],
+  "scripts": {
+    "start": "tsc && npx ts-node .",
+    "clean": "rm -r -f build"
+  },
+  "devDependencies": {
+    "ts-node": "^7.0.0",
+    "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "@types/ip": "^0.0.31",
+    "@types/node": "^10.5.4",
+    "ip": "^1.1.5"
+  }
+}
