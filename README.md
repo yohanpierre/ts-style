@@ -1,2 +1,4 @@
-# ts-style
-Andronow typescript style coding
+# Andronow typescript style coding
+
+## Build
+`yarn && yarn start`
